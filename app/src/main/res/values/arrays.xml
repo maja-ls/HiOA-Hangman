@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="words">
+        <item>banana</item>
+        <item>torque</item>
+        <item>synonym</item>
+        <item>conjugate</item>
+        <item>fortification</item>
+        <item>cat</item>
+        <item>apple</item>
+        <item>mechanical</item>
+        <item>levitate</item>
+        <item>deer</item>
+        <item>trundle</item>
+        <item>murder</item>
+        <item>ball</item>
+        <item>hyperspace</item>
+        <item>turtle</item>
+        <item>dictionary</item>
+        <item>fortuitous</item>
+        <item>grant</item>
+        <item>noun</item>
+        <item>verb</item>
+        <item>hurricane</item>
+        <item>thunderstorm</item>
+        <item>abstraction</item>
+        <item>luck</item>
+        <item>noose</item>
+        <item>garage</item>
+        <item>indispensable</item>
+
+    </array>
+
+    <array name="chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </array>
+</resources>

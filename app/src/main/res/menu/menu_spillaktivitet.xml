@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Spill">
+
+    <item android:id="@+id/option_resign"
+        android:title="@string/resign"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/option_rules"
+        android:title="@string/button_rules"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom" />
+
+</menu>

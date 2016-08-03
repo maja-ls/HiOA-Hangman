@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="button_new_game">New game</string>
+    <string name="button_rules">Rules</string>
+    <string name="button_language">Select language</string>
+    <string name="button_exit">Exit application</string>
+
+    <string name="resign">Give up</string>
+    <string name="resignConf">Really give up?</string>
+
+    <string name="win">You won! Play again?</string>
+    <string name="loss">You lost! Play again?</string>
+
+    <string name="button_yes">Yes</string>
+    <string name="button_no">No</string>
+    <string name="solution_text">The solution was</string>
+
+    <string name="the_rules">Coded by:
+        \nMaja Sæterstøen
+        \nStudent no. s198515
+        \n\n\nThe app will select a word randomly.
+        \n The goal is to guess what the word is.
+        \n\n You can tell how many letters are in the word by the number of underlines shown.
+        \n\n If you guess a letter correctly, the corresponding underline(s) will be replaced by that letter.
+        \n\n Every time you guess a letter which is not in the word, you are one step closer to being hung.
+        \n\n\n Do not get hung.
+    </string>
+
+</resources>
+

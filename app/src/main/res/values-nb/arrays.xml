@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="words">
+        <item>banan</item>
+        <item>kjærlighet</item>
+        <item>apekatt</item>
+        <item>himmel</item>
+        <item>flaks</item>
+        <item>skog</item>
+        <item>båt</item>
+        <item>rolig</item>
+        <item>forfjamset</item>
+        <item>lykkelig</item>
+        <item>ironi</item>
+        <item>gravemaskin</item>
+        <item>elektrisitet</item>
+        <item>ferdigmat</item>
+        <item>gjeld</item>
+        <item>kullgruve</item>
+        <item>kjøkken</item>
+        <item>vaskemaskin</item>
+        <item>lek</item>
+        <item>skole</item>
+        <item>blyant</item>
+        <item>dagbok</item>
+        <item>desperasjon</item>
+        <item>forklaring</item>
+        <item>imitere</item>
+        <item>hår</item>
+        <item>syltetøy</item>
+        <item>pronomen</item>
+        <item>forferdelig</item>
+        <item>antenne</item>
+        <item>bille</item>
+        <item>katt</item>
+        <item>hund</item>
+
+
+    </array>
+
+    <array name="chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>Æ</item>
+        <item>Ø</item>
+        <item>Å</item>
+    </array>
+</resources>

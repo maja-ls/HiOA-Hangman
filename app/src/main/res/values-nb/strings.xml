@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="button_new_game">Nytt spill</string>
+    <string name="button_rules">Regler</string>
+    <string name="button_language">Velg språk</string>
+    <string name="button_exit">Avslutt</string>
+
+    <string name="resign">Gi opp</string>
+    <string name="resignConf">Seriøst? Gi opp?</string>
+
+    <string name="win">Du vant! Spille igjen?</string>
+    <string name="loss">Du tapte! Spille igjen?</string>
+
+    <string name="button_yes">Ja</string>
+    <string name="button_no">Nei</string>
+    <string name="solution_text">Ordet var</string>
+
+    <string name="the_rules">Kodet av:
+        \nMaja Sæterstøen
+        \nStudent nr. s198515
+        \n\n\nDu skal gjette på et ord som appen velger tilfeldig.
+        \n\n Du kan se hvor mange bokstaver som er i ordet utifra hvor mange streker som vises.
+        \n\n Hvis du gjetter riktig bokstav vil streken(e) som som er i bokstavens posisjon erstattes av bokstaven.
+        \n\n Hver gang du gjetter på en bokstav som ikke er i ordet kommer du ett steg nærmere å bli hengt.
+        \n\n\n Ikke bli hengt.
+    </string>
+
+
+</resources>
+
